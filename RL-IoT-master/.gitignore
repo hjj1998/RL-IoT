@@ -1,0 +1,15 @@
+*.iml
+/.idea
+.DS_Store
+__pycache__/
+venv/
+.venv
+output/
+plot/
+*.json
+*.csv
+plotter/*.png
+plotter/*.pdf
+*.dictionary
+*.zip
+plotter/csv_for_heatmap/
